@@ -1,6 +1,6 @@
 # Chapter 1: Introduction to Dashboards
 
-These days, understanding data is the key to making the best decisions for any business. However, the amount of information that’s available can be overwhelming for the most data-savvy people.
+These days understanding data is the key to making the best decisions for any business. However, the amount of information that’s available can be overwhelming for the most data-savvy people.
 
 So what’s the key to making data-driven decisions? Finding the most important data by formatting it in a way that’s easy to understand. This can change, depending on who will view the data.
 
